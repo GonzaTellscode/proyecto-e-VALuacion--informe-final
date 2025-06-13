@@ -35,6 +35,6 @@ Permitir que el estudiante evalúe el desempeño de sus docentes al finalizar el
 
 ---
 
-## ✅ Resultado Exitoso
+## ✅ Resultado Exitoso.
 
 El sistema registra correctamente la evaluación del docente por parte del estudiante y garantiza la confidencialidad de la información.
